@@ -1,0 +1,560 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.icon1:hover{
+    color: rgb(0, 0, 0);
+}
+.icon1{
+    position: absolute;
+    top: 50px;
+    right: 190px;
+    color: rgb(143, 135, 135);
+}
+.icon2:hover{
+    color: rgb(0, 0, 0);
+}
+.icon2{
+    position: absolute;
+    top: 50px;
+    right: 155px;
+    color: rgb(143, 135, 135);
+}.icon3:hover{
+    color: rgb(0, 0, 0);
+}
+.icon3{
+    position: absolute;
+    top: 50px;
+    right: 120px;
+    color: rgb(143, 135, 135);
+}
+.button1{
+    position: absolute;
+    top: 50px;
+    left: 540px;
+    padding: 7px;
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid black;
+}
+.button1:hover{
+    color: rgb(255, 0, 0);
+}
+.form1{
+    position: absolute;
+    top: 52px;
+    left: 80px;
+    height: 30px;
+    border-radius: 100px;
+    width: 145px;
+    border: none;
+    display: inline-block;
+    font-size: 15px;
+    outline: none;
+}
+.icon4{
+    position: absolute;
+    top: 57px;
+    left: 55px;
+    z-index: 1;
+    color: rgb(143, 135, 135);
+}
+.pointer{
+    position: relative;
+    /* border: 2px solid red; */
+    height: 20px;
+    top: 90px;
+    margin-left: 350px;
+    padding-top: 40px;
+    width: 570px;
+}
+.control{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.control a{
+    color: black;
+    text-decoration: none;
+}
+.control a:hover{
+    color: blueviolet;
+}
+.back{
+    position: absolute;
+    background-color: rgb(216, 211, 219);
+    top: 200px;
+    width: 100%;
+    height: 50px;
+}
+.link1{
+    position: absolute;
+    top: 220px;
+    left: 50px;
+    text-decoration: none;
+    color: black;
+}
+.link1:hover{
+    color: blueviolet;
+}
+.para1{
+    position: absolute;
+    top: 220px;
+    left: 99px;
+    font-size: 20px;   
+}
+.para1:hover{
+    color: rgb(226, 43, 43);
+}
+.link2{
+    position: absolute;
+    top: 220px;
+    left: 115px;
+    text-decoration: none;
+    color: black;
+}
+
+.link2:hover{
+    color: blueviolet;
+}
+.img1{
+    position: absolute;
+    top: 320px;
+    width: 520px;
+    height: 320px;
+    filter: brightness(50%);
+    left: 50px;
+}
+
+.hr{
+    position: absolute;
+    width: 70px;
+    left: 740px;
+    background-color: blueviolet;
+    height: 3px;
+    color: blueviolet;
+    z-index: 1;
+    top: 320px;
+}
+.para2{
+    position: absolute;
+    top: 340px;
+    left: 740px;
+    font-size: 32px;
+    font-family: 'Cairo', sans-serif;
+}
+.para3{
+    position: absolute;
+    top: 410px;
+    left: 740px;
+    
+}
+
+.hr2{
+    position: absolute;
+    width: 110px;
+    left: 560px;
+    background-color: blueviolet;
+    height: 3px;
+    color: blueviolet;
+    z-index: 1;
+    top: 780px;
+}
+.para4{
+    position: absolute;
+    top: 800px;
+    left: 535px;
+    font-size: 40px;
+}
+.img2{
+    position: absolute;
+    top: 910px;
+    left: 50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    filter: brightness(70%);
+}
+.img3{
+    position: absolute;
+    top: 910px;
+    left: 380px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    filter: brightness(70%);
+
+
+}
+.img4{
+    position: absolute;
+    top: 910px;
+    left: 710px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    filter: brightness(70%);
+}
+.img5{
+    position: absolute;
+    top: 910px;
+    left: 1040px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    filter: brightness(70%);
+}
+.para5{
+    position: absolute;
+    top: 1080px;
+    left: 30px;
+    font-size:25px ;
+}
+.para6{
+    position: absolute;
+    top: 1080px;
+    left: 380px;
+    font-size:25px ;
+}
+.para7{
+    position: absolute;
+    top: 1080px;
+    left: 710px;
+    font-size:25px ;
+}
+.para8{
+    position: absolute;
+    top: 1080px;
+    left: 1040px;
+    font-size:25px ;
+}
+.para9{
+    position: absolute;
+    top: 1120px;
+    left: 10px;
+    font-size:17px ;
+    width: 290px;
+
+}
+.para100{
+    position: absolute;
+    top: 1120px;
+    left: 350px;
+    font-size:17px ;
+    width: 290px;
+
+}
+.para110{
+    position: absolute;
+    top: 1120px;
+    left: 670px;
+    font-size:17px ;
+    width: 290px;
+
+}
+.para120{
+    position: absolute;
+    top: 1120px;
+    left: 975px;
+    font-size:17px ;
+    width: 262px;
+
+}
+.icon5{
+    position: absolute;
+    /* width: 20px; */
+    /* height: 305px; */
+    top: 1300px;
+    color: purple;
+    left: 50px;
+    transform:rotatey(180deg);
+}
+.icon6{
+    position: absolute;
+    /* height: 305px; */
+    top: 1300px;
+    color: purple;
+    left: 450px;
+}
+.icon7{
+    position: absolute;
+    /* height: 305px; */
+    top: 1300px;
+    color: purple;
+    left: 850px;
+
+}
+.para10{
+    position: absolute;
+    /* height: 305px; */
+    top: 1330px;
+    left: 50px;
+}
+.para11{
+    position: absolute;
+    /* height: 305px; */
+    top: 1330px;
+    left: 450px;
+
+}
+.para12{
+    position: absolute;
+    /* height: 305px; */
+    top: 1330px;
+    left: 850px;
+}
+.para13{
+    position: absolute;
+    /* height: 305px; */
+    top: 1370px;
+    font-size: 13px;
+    left: 50px;
+    width: 220px;
+    color: rgb(83, 83, 83);
+}
+.para14{
+    position: absolute;
+    /* height: 305px; */
+    top: 1370px;
+    font-size: 13px;
+    left: 450px;
+    width: 220px;
+    color: rgb(83, 83, 83);
+}
+
+
+.para15{
+    position: absolute;
+    /* height: 305px; */
+    top: 1370px;
+    font-size: 13px;
+    left: 850px;
+    width: 220px;
+    color: rgb(83, 83, 83);
+}
+/* ******************************* */
+.para35{
+    position: absolute;
+    top: 2950px;
+    left: 70px;
+    font-size: 25px;
+}
+.para36{
+    position: absolute;
+    top: 2999px;
+    left: 70px;
+    color: rgb(51, 51, 51);
+
+}
+.para37{
+    position: absolute;
+    top: 3030px;
+    left: 70px;
+    color: rgb(51, 51, 51);
+
+}
+.para38{
+    position: absolute;
+    top: 3061px;
+    left: 70px;
+    color: rgb(51, 51, 51);
+
+}
+.para39{
+    position: absolute;
+    top: 3091px;
+    left: 70px;
+    color: rgb(51, 51, 51);
+
+}
+.para40{
+    position: absolute;
+    top: 2999px;
+    left: 270px;
+    color: rgb(51, 51, 51);
+
+}
+
+.para41{
+    position: absolute;
+    top: 3030px;
+    left: 270px;
+    color: rgb(51, 51, 51);
+
+}
+
+.para42{
+    position: absolute;
+    top: 3061px;
+    left: 270px;
+    color: rgb(51, 51, 51);
+
+}
+
+
+.para43{
+    position: absolute;
+    top: 2999px;
+    left: 470px;
+    color: rgb(51, 51, 51);
+
+}
+
+
+.para44{
+    position: absolute;
+    top: 3030px;
+    left: 470px;
+    color: rgb(51, 51, 51);
+
+}
+
+
+.para45{
+    position: absolute;
+    top: 3061px;
+    left: 470px;
+    color: rgb(51, 51, 51);
+
+}
+
+.para46{
+    position: absolute;
+    top: 2950px;
+    left: 630px;
+    font-size: 25px;
+}
+
+.image55{
+    position: absolute;
+    top: 2990px;
+    left: 630px;
+    width: 200px;
+    height: 110px;
+}
+
+.para47{
+    position: absolute;
+    top: 3120px;
+    left: 630px;
+    font-size: 18px;
+    color: blueviolet;
+}
+
+.para48{
+    position: absolute;
+    top: 3145px;
+    left: 630px;
+    font-size: 15px;
+    color: rgb(51, 51, 51);
+}
+
+
+.para49{
+    position: absolute;
+    top: 2950px;
+    left: 860px;
+    font-size: 25px;
+}
+
+.icon10{
+    position: absolute;
+    top: 2995px;
+    left: 860px;
+    color: purple;
+
+}
+
+
+.icon11{
+    position: absolute;
+    top: 3040px;
+    left: 860px;
+    color: purple;
+
+}
+.para50{
+    position: absolute;
+    top: 2995px;
+    left: 890px;
+    color: rgb(51, 51, 51);
+    
+}
+.para51{
+    position: absolute;
+    top: 3040px;
+    left: 890px;
+    color: rgb(51, 51, 51);
+}
+
+.icon12{
+    position: absolute;
+    top: 3085px;
+    left: 860px;
+    color: purple;
+
+}
+.para52{
+    position: absolute;
+    top: 3085px;
+    left: 890px;
+    color: rgb(51, 51, 51);
+    
+}
+
+.para53{
+    position: absolute;
+    top: 3170px;
+    left: 890px;
+    color: rgb(51, 51, 51);
+    
+}
+#Email{
+    position: absolute;
+    top: 3190px;
+    left: 890px;
+    height: 30px;
+    width: 220px;
+    
+    display: inline-block;
+    font-size: 15px;
+    outline: none;
+}
+.button3{
+    position: absolute;
+    top: 3190px;
+    left: 1054px;
+    background-color: purple;
+    color: white;
+    height: 33px;
+    width: 60px;
+}
+.span20{
+    color: purple;
+}
+.para54{
+    position: absolute;
+    top: 3290px;
+    left: 300px;
+    color: rgb(51, 51, 51);
+    
+}
+.icon13{
+    position: relative;
+    top: 7px;
+    color: black;
+}
+.divvawy{
+    position: absolute;
+    top: 3400px;
+    width: 100%;
+    height: 10px;
+}
+
+.masrawy{
+    position: relative;
+    top: -1500px;
+    /* border: 20px solid red; */
+    /* background-color: brown; */
+}
